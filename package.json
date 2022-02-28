@@ -1,0 +1,14 @@
+{
+  "name": "clubscraps",
+  "version": "1.0.0",
+  "description": "me share club member ship with #scrapbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cedric Hutchings",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.10.0"
+  }
+}
