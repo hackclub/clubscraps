@@ -9,6 +9,10 @@
   "author": "Cedric Hutchings",
   "license": "ISC",
   "dependencies": {
-    "@slack/bolt": "^3.10.0"
+    "@slack/bolt": "^3.10.0",
+    "axios": "^0.26.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4"
   }
 }
