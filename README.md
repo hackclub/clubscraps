@@ -6,7 +6,7 @@ So friendly, in fact, that I have taken to a more civilized occupation than my b
 
 I help Hack Clubbers share what they have made with the Hack Club Slack's #scrapbook channel, without having to sign into a Slack account.
 
-The mouth of my cave can be found at https://hack.af/share ... approach at your own risk, for your messages are dutifully delievered to #scrapbook!
+The mouth of my cave can be found at https://hack.af/share ... approach at your own risk, for your messages are dutifully delivered to #scrapbook!
 
 (This way, we lure them into the slack ... where we can ~~feast on their bones~~ _make cool things with them_!)
 
